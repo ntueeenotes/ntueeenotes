@@ -230,128 +230,116 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE3011 2021-2022 Semester 2
     * EE3011 2021-2022 Semester 1
 
-**All past year papers include detailed solutions with explanations and step-by-step approaches.** These solutions reflect the problem-solving methods that helped me achieve good grades in these modules.
-
-**Note about past year papers**: One of my key study strategies was thoroughly working through these papers. The exam formats tend to be relatively consistent year to year, with variations in specific questions. By mastering these past papers, you'll be well-prepared for similar question types in your exams.
+**All past year papers include detailed solutions.** These solutions reflect the problem-solving methods that helped me achieve good grades in these modules.
 
 ## Course Difficulty Assessment
 
 Below is a detailed breakdown of each course's difficulty, content focus, and strategies for success. This section is designed to help you understand what to expect and how to approach each module effectively.
 
-### Moderate
+### Moderate (In Ascending Order)
 
 #### EE2073: Introduction to EEE Project
 - **Content Overview**: Lab-based module focused on practical engineering projects
 - **Workload**: Minimal weekly workload; everything is completed during lab sessions
 - **Assessment**: Lab Quiz, Final Report
-- **Success Strategy**: Attend all lab sessions, follow instructions carefully, and use my weekly reflections as a guide for what professors look for
-- **Why My Notes Help**: Contains complete solutions for all 9 labs and a well-structured final report that can serve as a template
-
-#### IE2104: Digital Electronics
-- **Content Overview**: Fundamentals of digital circuits, covering number systems, logic gates, and combinatorial circuits
-- **Workload**: Moderate but straightforward content
-- **Assessment**: OASIS Quizzes, Final Paper
-- **Success Strategy**: Memorize truth tables, understand basic gate functions, and practice past papers extensively
-- **Why My Notes Help**: Comprehensive coverage of all digital concepts with clear explanations and past paper solutions
+- **How to Tackle This Course**: Attend all lab sessions, follow instructions carefully, and use the weekly reflections provided in my notes as a guide for what professors look for. My notes contain complete solutions for all 9 labs and a well-structured final report that can serve as a template for your own work.
 
 #### IE0005: Introduction to Data Science & AI
 - **Content Overview**: Introduction to data analytics, visualization, machine learning, AI techniques, computer vision, and natural language processing with focus on practical applications
 - **Workload**: Primarily lab-based with guided work during class sessions; lighter workload compared to other modules
 - **Assessment**: Project & Presentation, Lab Test, Final Quiz
-- **Success Strategy**: Practice with the provided lab test questions (which earned full marks) and prepare using the final quiz sample questions that cover approximately 50% of the actual exam content
+- **How to Tackle This Course**: Practice with the provided lab test questions (which earned full marks) and prepare using the final quiz sample questions that cover approximately half of the actual exam content. The materials include accurate sample questions that represent what you'll see in the assessments.
+
+#### IE2104: Digital Electronics
+- **Content Overview**: Fundamentals of digital circuits, covering number systems, logic gates, and combinatorial circuits
+- **Workload**: Moderate but straightforward content
+- **Assessment**: OASIS Quizzes, Final Paper
+- **How to Tackle This Course**: Memorize truth tables, understand basic gate functions, and practice past papers extensively. My notes provide comprehensive coverage of all digital concepts with clear explanations and detailed past paper solutions to help you master the fundamental concepts quickly.
 
 #### EE2005: Electrical Devices Machines
 - **Content Overview**: Study of electrical machines and their principles of operation
 - **Workload**: Regular tutorials and assignments
 - **Assessment**: Midterms, Assignments, Final Paper
-- **Success Strategy**: Focus on memorizing formulas, practice tutorials for midterms, and spam past year papers for finals
-- **Why My Notes Help**: Contains formula sheets, step-by-step assignment solutions, and past paper answers
+- **How to Tackle This Course**: Focus on memorizing formulas, practice tutorials for midterms, and work through past year papers thoroughly for finals. My notes contain formula sheets, step-by-step assignment solutions that earned full marks, and comprehensive past paper answers to guide your preparation.
 
 #### IE2110: Signals and Systems
 - **Content Overview**: Comprehensive coverage of fundamental concepts in signal processing and system analysis
 - **Workload**: Substantial weekly commitment due to 20% IRA component requiring consistent preparation
 - **Content Focus**: Advanced graphical concepts and practical applications of Fourier series
 - **Assessment**: Weekly IRAs, Midterms, Final Paper
-- **Success Strategy**: Develop proficiency with graphical interpretations and master Fourier applications through regular practice
-- **Why My Notes Help**: Exclusive access to past IRA questions and midterm materials that can help you secure up to 30% of your grade before finals. The meticulously compiled summary notes are strategically organized for efficient review during critical exam preparation periods.
+- **How to Tackle This Course**: Develop proficiency with graphical interpretations and master Fourier applications through regular practice. My notes provide exclusive access to past IRA questions and midterm materials that can help you secure up to 30% of your grade before finals. The meticulously compiled summary notes are strategically organized for efficient review during critical exam preparation periods.
 
 #### EE3011: Modelling & Control
 - **Content Overview**: Introduction to control system analysis and design, covering system modeling, time and frequency responses, stability analysis, performance specifications, PID controller design, root-locus analysis, Bode plots, Nyquist plots, and compensation techniques
 - **Workload**: More manageable than it initially appears; content seems daunting at first but becomes approachable with practice
 - **Assessment**: Midterms (15%), Lab Work & Assessment (10%), Final Paper (60%)
-- **Success Strategy**: Despite the intimidating appearance of various concepts (PID, control theory, Bode plots), the assessment questions follow standard patterns; focus on understanding the question structures in past papers; with reference to past midterm papers and past year papers, learning how to approach these standard question types is sufficient for success
+- **How to Tackle This Course**: Despite the intimidating appearance of various concepts (PID, control theory, Bode plots), the assessment questions follow standard patterns. Focus on understanding the question structures in the provided past papers. With reference to the included past midterm papers and past year papers, learning how to approach these standard question types is sufficient for success. The notes include solutions that earned full marks on the midterm (30% weightage).
 
-### Challenging
-
-#### EE2101: Circuit Analysis
-- **Content Overview**: Comprehensive exploration of analytical techniques for understanding and solving real-world circuit behaviors
-- **Workload**: Progressive intensity with significant increases after mid-semester as concepts become more advanced
-- **Assessment**: OASIS Quizzes, Assignments (10%), Final Paper (60%)
-- **Success Strategy**: Develop mastery of multiple circuit solution methodologies, maintain consistent practice schedules, and prioritize precision in all calculations
-- **Why My Notes Help**: Meticulously detailed step-by-step assignment solutions that earned full marks (10% of the module), giving you a perfect template to follow. The extensive collection of past paper solutions provides invaluable practice opportunities with circuits very similar to those you'll encounter in your assessments. The summary notes condense complex circuit analysis techniques into clear, actionable methodologies. These resources address the most challenging aspect of this course: applying the right solution method to diverse circuit problems.
-
-#### EE2103: Semiconductor Fundamentals
-- **Content Overview**: Advanced exploration of quantum physics principles and their applications to semiconductor device technology
-- **Workload**: Particularly intensive due to weekly Individual Reading Assessments (IRAs) requiring consistent and thorough study
-- **Assessment**: Weekly IRAs, OASIS Quizzes, Final Paper
-- **Success Strategy**: Implement a rigorous practice regimen focusing on OASIS questions and past papers; be prepared for tutorial questions that often exceed the difficulty of actual exams
-- **Why My Notes Help**: Comprehensive collection of past midterm and IRA question sets with detailed solutions. These resources, along with complete assignment answers, will significantly streamline your weekly preparation process and help build the foundation needed for the finals. The IRA component is particularly challenging for most students, and these solutions provide a clear roadmap to navigate this difficult aspect of the course.
+### Challenging (In Ascending Order)
 
 #### IE2106: Engineering Mathematics 1
 - **Content Overview**: Covers probability distributions, statistical analysis (confidence intervals, hypothesis testing), numerical methods (fixed point iteration, interpolation), differential equations (Euler's, Heun's, Runge-Kutta methods), Laplace transforms, and partial differential equations
 - **Workload**: Heavy workload requiring memorization of various statistical and numerical methods; midterms demand extreme precision (8 decimal places); time-consuming assignments
 - **Assessment**: Midterms (15% each), Assignments (5% each), Final Paper (60%)
-- **Success Strategy**: Practice extensively with OASIS questions for midterms; use the provided full-mark assignment solutions as reference templates; familiarize yourself with different question types through past year papers, particularly focusing on various probability distributions (normal, Poisson, binomial)
+- **How to Tackle This Course**: Practice extensively with OASIS questions for midterms; use the provided full-mark assignment solutions as reference templates; familiarize yourself with different question types through past year papers, particularly focusing on various probability distributions (normal, Poisson, binomial). The included step-by-step assignment solutions (which earned full marks) provide valuable guidance for approaching these challenging problems.
+  
+#### EE2101: Circuit Analysis
+- **Content Overview**: Comprehensive exploration of analytical techniques for understanding and solving real-world circuit behaviors
+- **Workload**: Progressive intensity with significant increases after mid-semester as concepts become more advanced
+- **Assessment**: OASIS Quizzes, Assignments (10%), Final Paper (60%)
+- **How to Tackle This Course**: Develop mastery of multiple circuit solution methodologies, maintain consistent practice schedules, and prioritize precision in all calculations. My notes include meticulously detailed step-by-step assignment solutions that earned full marks (10% of the module), giving you a perfect template to follow. The extensive collection of past paper solutions provides invaluable practice opportunities with circuits very similar to those you'll encounter in your assessments. The summary notes condense complex circuit analysis techniques into clear, actionable methodologies. These resources address the most challenging aspect of this course: applying the right solution method to diverse circuit problems.
 
 #### EE1102: Physics Foundation
 - **Content Overview**: Covers optics (reflection, refraction, interference), electromagnetism (electric fields, Coulomb's law, magnetism, Maxwell's equations), and quantum physics (photoelectric effect, wave-particle duality, atomic structure)
 - **Workload**: Moderate with regular tutorials and laboratory sessions
 - **Assessment**: OASIS Midterms (10% each), Lab Work & Assessment (10%), Assignment (10%), Final Paper (60%)
-- **Success Strategy**: Focus on tutorials and OASIS practice questions for midterms. Later chapters on quantum physics are challenging, especially without H2 physics background. This course is a foundation for the more advanced EE3101 Electromagnetics in Year 3.
+- **How to Tackle This Course**: Focus on tutorials and OASIS practice questions for midterms. Later chapters on quantum physics are challenging, especially without H2 physics background. This course is a foundation for the more advanced EE3101 Electromagnetics in Year 3. The notes provide comprehensive coverage of all topics and detailed solutions to help you master both the theory and application.
+
+#### EE2103: Semiconductor Fundamentals
+- **Content Overview**: Advanced exploration of quantum physics principles and their applications to semiconductor device technology
+- **Workload**: Particularly intensive due to weekly Individual Reading Assessments (IRAs) requiring consistent and thorough study
+- **Assessment**: Weekly IRAs, OASIS Quizzes, Final Paper
+- **How to Tackle This Course**: Implement a rigorous practice regimen focusing on OASIS questions and past papers; be prepared for tutorial questions that often exceed the difficulty of actual exams. My notes include a comprehensive collection of past midterm and IRA question sets with detailed solutions, along with complete assignment answers. These resources will significantly streamline your weekly preparation process and help build the foundation needed for the finals. The IRA component is particularly challenging for most students, and these solutions provide a clear roadmap to navigate this difficult aspect of the course.
 
 ### Very Challenging
+
+#### EE3101: Engineering Electromagnetics
+- **Content Overview**: Application of fundamental physics laws to static and time-varying electric and magnetic fields, Maxwell's equations, electromagnetic waves in different media, and reflection/transmission coefficients
+- **Workload**: Uneven difficulty - first part is theory-heavy with challenging proofs, while second part is significantly more straightforward; overall manageable with proper strategy
+- **Assessment**: Midterms (15% each), Weekly Quizzes & Class Participation (5%), Lab Work & Assessment (5%), Final Paper (60%)
+- **How to Tackle This Course**: For the challenging first part, focus on tutorial completion and OASIS quiz preparation; utilize the formula sheet for efficient learning; review EE1102 Physics Foundation concepts. For the easier second part, practice with OASIS questions regularly. Past year papers are generally approachable except for Question 2 (theorem proofs). The notes include complete solutions for all assessments and a comprehensive collection of past papers to help you navigate this complex course.
+
+#### EE3015: Power System & Conversion
+- **Content Overview**: Comprehensive study of power generation, transmission, distribution systems, power system components, fault analysis, power conversion principles, and electric drives
+- **Workload**: Extremely heavy, especially in the first part with extensive calculations (20+ lines per question) and diagram drawing; approximately 60 formulas to memorize without a formula sheet; second part more straightforward with buck/boost concepts and some overlap with EE2005
+- **Assessment**: Midterms (10%), OASIS Assessment (10%), Lab Work & Assessment (10%), Final Paper (60%)
+- **How to Tackle This Course**: Careful time management, particularly during Weeks 6-8 (the most intense period). Use the provided past midterm and OASIS question solutions since tutorials and midterm questions differ significantly. For tutorials, focus on past year paper preparation; for the second midterm, reference the notes and practice questions in the slides. The materials include comprehensive solutions that earned full marks for all assessment components.
+
+#### EE2102: Analog Electronics
+- **Content Overview**: In-depth study of analog electronic circuit design and analysis principles
+- **Workload**: Exceptionally demanding with three complex design assignments and comprehensive lab work
+- **Assessment**: Midterms, Design Assignments, Lab Work & Assessment, Final Paper
+- **How to Tackle This Course**: Begin assignments well ahead of deadlines, prioritize fundamental principles over memorization, and utilize reference designs effectively. My notes provide complete step-by-step solutions for all design assignments (with full marks) that can save you dozens of hours of challenging work. They also include access to past midterm questions that directly prepare you for the exam format. The design assignments are widely considered the most challenging and time-consuming component of this course, and these detailed solutions provide invaluable guidance through every step.
 
 #### MH1811: Mathematics 2
 - **Content Overview**: Advanced calculus including sequences, series, multivariable calculus, and differential equations
 - **Workload**: Heavy theoretical content requiring significant study time
 - **Focus**: Heavy emphasis on mathematical proofs and theoretical understanding
 - **Assessment**: Midterms, Final Paper
-- **Success Strategy**: Develop strong fundamentals, practice extensively with tutorial problems, create effective cheatsheets
-- **Why My Notes Help**: Contains comprehensive examples for each concept and detailed tutorial solutions
-
-#### IE2107: Engineering Mathematics 2
-- **Content Overview**: Advanced mathematical methods focusing on linear algebra and vectors
-- **Workload**: Extremely theoretical with complex abstract concepts
-- **Assessment**: Midterms, Final Paper
-- **Success Strategy**: Start early, focus on building conceptual understanding rather than formula memorization
-- **Why My Notes Help**: Contains CA1 and CA3 questions and answers from multiple academic years, plus tutorial solutions
+- **How to Tackle This Course**: Develop strong fundamentals, practice extensively with tutorial problems, create effective cheatsheets. My notes contain comprehensive examples for each concept and detailed tutorial solutions that break down complex mathematical proofs into understandable steps. Despite the lack of past papers, the provided content covers all the fundamental concepts needed for success.
 
 #### IE2108: Data Structure and Analysis
 - **Content Overview**: Comprehensive introduction to Python programming with specialized focus on advanced data structures and algorithmic analysis
 - **Workload**: Significantly demanding, particularly challenging for students without prior programming experience
 - **Assessment**: Weekly Quizzes (20%), Final Paper
-- **Success Strategy**: Develop systematic approach to memorizing essential code patterns, engage in consistent hands-on programming practice, and build a strong foundation in algorithmic thinking
-- **Why My Notes Help**: Complete tutorial solutions and an extensive collection of IRA and midterm questions with detailed answers. These resources are specifically designed to help you excel in the weekly quizzes that many students find challenging. The comprehensive coverage of past questions reflects patterns that consistently appear in assessments, giving you a significant advantage in preparation. These notes have helped numerous peers achieve excellent grades in this notoriously difficult programming module, particularly valuable for those without prior Python experience.
+- **How to Tackle This Course**: Develop systematic approach to memorizing essential code patterns, engage in consistent hands-on programming practice, and build a strong foundation in algorithmic thinking. My notes include complete tutorial solutions and an extensive collection of IRA and midterm questions with detailed answers. These resources are specifically designed to help you excel in the weekly quizzes that many students find challenging. The comprehensive coverage of past questions reflects patterns that consistently appear in assessments, giving you a significant advantage in preparation. These notes have helped numerous peers achieve excellent grades in this notoriously difficult programming module, particularly valuable for those without prior Python experience.
 
-#### EE2102: Analog Electronics
-- **Content Overview**: In-depth study of analog electronic circuit design and analysis principles
-- **Workload**: Exceptionally demanding with three complex design assignments and comprehensive lab work
-- **Assessment**: Midterms, Design Assignments, Lab Work & Assessment, Final Paper
-- **Success Strategy**: Begin assignments well ahead of deadlines, prioritize fundamental principles over memorization, and utilize reference designs effectively
-- **Why My Notes Help**: Complete step-by-step solutions for all design assignments (with full marks) that can save you dozens of hours of challenging work. Access to past midterm questions that directly prepare you for the exam format. The design assignments are widely considered the most challenging and time-consuming component of this course, and these detailed solutions provide invaluable guidance.
-
-#### EE3101: Engineering Electromagnetics
-- **Content Overview**: Application of fundamental physics laws to static and time-varying electric and magnetic fields, Maxwell's equations, electromagnetic waves in different media, and reflection/transmission coefficients
-- **Workload**: Uneven difficulty - first part is theory-heavy with challenging proofs, while second part is significantly more straightforward; overall manageable with proper strategy
-- **Assessment**: Midterms (15% each), Weekly Quizzes & Class Participation (5%), Lab Work & Assessment (5%), Final Paper (60%)
-- **Success Strategy**: For the challenging first part, focus on tutorial completion and OASIS quiz preparation; utilize the formula sheet for efficient learning; review EE1102 Physics Foundation concepts; for the easier second part, practice with OASIS questions regularly; past year papers are generally approachable except for Question 2 (theorem proofs)
-
-#### EE3015: Power System & Conversion
-- **Content Overview**: Comprehensive study of power generation, transmission, distribution systems, power system components, fault analysis, power conversion principles, and electric drives
-- **Workload**: Extremely heavy, especially in the first part with extensive calculations (20+ lines per question) and diagram drawing; approximately 60 formulas to memorize without a formula sheet; second part more straightforward with buck/boost concepts and some overlap with EE2005
-- **Assessment**: Midterms (10%), OASIS Assessment (10%), Lab Work & Assessment (10%), Final Paper (60%)
-- **Success Strategy**: Careful time management, particularly during Weeks 6-8 (the most intense period); utilize the provided past midterm and OASIS question solutions since tutorials and midterm questions differ significantly; for tutorials, focus on past year paper preparation; for the second midterm, reference the notes and practice questions in the slides
-
+#### IE2107: Engineering Mathematics 2
+- **Content Overview**: Advanced mathematical methods focusing on linear algebra and vectors
+- **Workload**: Extremely theoretical with complex abstract concepts
+- **Assessment**: Midterms, Final Paper
+- **How to Tackle This Course**: Start early, focus on building conceptual understanding rather than formula memorization. The notes contain CA1 and CA3 questions and answers from multiple academic years, plus detailed tutorial solutions that help bridge the gap between abstract concepts and practical application. This approach will help you develop the deep understanding necessary for this challenging course.
+  
 ## Tips and Tricks for Academic Success
 
 These practical strategies helped me achieve good grades and can work for you too:
@@ -361,33 +349,6 @@ These practical strategies helped me achieve good grades and can work for you to
 - **Platform-Specific Preparation**:
   - For OASIS-based tests: Spam OASIS practice questions until you're consistently scoring well
   - For traditional paper exams: Focus on tutorial questions and practice papers
-- **Midterm Focus**: Practice specifically on relevant materials covered up to that point
-- **Adapt Your Approach**: As you progress through your studies, you'll discover which study methods work best for you
-
-### For Best Results
-- Start exam preparation at least 2 weeks in advance
-- Create a schedule that prioritizes more difficult modules
-- Join study groups to discuss complex concepts (especially for modules like IE2107)
-- When using my notes, don't just read—actively work through the examples
-- For modules requiring memorization (like EE2005), create flashcards from my summary notes
-
-### Time-Saving Techniques
-- Use my summary notes to identify the most testable topics
-- Focus your energy on high-weightage components
-- For lab-based assessments, my lab reports can serve as templates
-- Review the assignment solutions before attempting your own assignments
-
-## Value Added
-
-The notes provide exceptional value through:
-
-- **Time Savings**: Condensed, focused material saves countless study hours
-- **Exam-Focused Content**: My notes emphasize topics that actually appear in assessments
-- **Real Insights**: Materials include personal insights that textbooks don't cover
-- **Strategic Learning**: Understanding which study methods work for different assessment types
-- **Visual Learning**: Sample diagrams and simplified explanations throughout
-
-**Note on Grade Accuracy**: While I've listed my final grades for transparency, the true value of these notes lies in the strategies and content focus that helped me tackle these challenging modules effectively.
 
 ## Disclaimer
 
