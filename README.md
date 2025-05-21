@@ -1,4 +1,4 @@
-# README: Your Guide to Success with EEE Course Notes
+# README: EEE Course Notes Summary
 
 ## Course Grades Summary
 
