@@ -25,13 +25,6 @@ Below is a quick reference table of all available courses, grades achieved, and 
 
 ✓ = Available   ✗ = Not Available
 
-## Discount Packages Available
-
-- **20% off** for purchase of more than 3 courses
-- **30% off** for purchase of more than 5 courses
-- **40% off** for purchase of more than 10 courses
-
-*Discounts only apply per purchase and do not carry over for future purchases.*
 
 ## Comprehensive Materials Included
 
@@ -51,9 +44,6 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE1002_2021_S1_all
     * EE1002_1920_S1_all
     * EE1002_1819_S2_all
-- **Achievement Highlights:**
-  - Scored 8/10 for both midterms
-  - Scored 9/10 for Assignment
 - **Note:** Past quiz/midterm format not available
 
 #### MH1811: Mathematics 2 (Final Grade: B+)
@@ -66,7 +56,6 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 - **Features:**
   - Lots of examples for each concept taught in lectures
 - **Note:** Neither past year papers nor past quiz/midterm format available
-- **Course Focus:** Advanced calculus including sequences, series, multivariable calculus, and differential equations with emphasis on theoretical proofs
 
 #### IE2104: Digital Electronics (Final Grade: A-)
 - **Course Materials:**
@@ -78,7 +67,6 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE2004_2021_S1_all
     * EE2004_1920_S1_all
 - **Note:** Past quiz/midterm format not available
-- **Course Focus:** Fundamentals of digital circuits, covering number systems, logic gates, and combinatorial circuits
 
 #### IE0005: Introduction to Data Science & AI (Final Grade: A-)
 - **Course Materials:**
@@ -93,7 +81,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 - **Course Materials:**
   - Tutorial Answers (Week 1-12)
   - Midterm OASIS Working
-  - Step-by-Step Assignment Solutions (Full Marks)
+  - Step-by-Step Assignment 1 & 2 Solutions (Full Marks)
   - Compiled Summary Notes for Finals
   - Past Year Papers with Complete Solutions:
     * EE2101 2022-2023 Semester 1
@@ -101,14 +89,13 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE2001_2021_S2_all
     * EE2001_2021_S1_all
 - **Note:** Past quiz/midterm format not available
-- **Course Focus:** Analysis techniques for real circuits, teaching multiple problem-solving approaches for circuit behavior
 
 #### EE2103: Semiconductor Fundamentals (Final Grade: B+)
 - **Course Materials:**
   - Tutorial Answers (Week 1-12)
   - IRA Questions (4/6 Sets)
-  - Midterm OASIS Working
-  - Assignment Answers
+  - Past Midterm OASIS Questions and Answers
+  - Take Home Assignment Answers
   - Past Year Papers with Complete Solutions:
     * EE2103 2022-2023 Semester 2
     * EE2103 2022-2023 Semester 1
@@ -119,8 +106,8 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 #### IE2106: Engineering Mathematics 1 (Final Grade: A)
 - **Course Materials:**
   - Tutorial Answers (Week 1-12)
-  - Midterm OASIS Working
-  - Step-by-Step Assignment Solutions
+  - OASIS Practice Question Workings
+  - Step-by-Step Take Home Assignment 1 & 2 Solutions (Full Marks)
   - Past Year Papers with Complete Solutions:
     * IE2106_2122_S2_all
     * IE2106 2022-2023 Semester 2
@@ -131,7 +118,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 #### IE2110: Signals and Systems (Final Grade: A-)
 - **Course Materials:**
   - Tutorial Answers (Week 1-12)
-  - IRA and Midterm Questions (up to 30% each)
+  - Past IRA and Midterm Questions and Answers (Full 30% weightage)
   - Compiled Summary Notes for Finals
   - Past Year Papers with Complete Solutions:
     * IE2110 2022-2023 Special Term
@@ -146,7 +133,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 #### EE2005: Electrical Devices Machines (Final Grade: A+)
 - **Course Materials:**
   - Tutorial Answers (Week 1-12)
-  - Step-by-Step Assignment Solutions (Full Marks)
+  - Step-by-Step Assignment Solutions (Full Marks, 10% Weightage)
   - Labsheet and Answers for EDM labs
   - Past Year Papers with Complete Solutions:
     * EE3010_2021_S2_all
@@ -159,7 +146,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 - **Course Materials:**
   - Weekly Reflections and Codes (9 labs)
   - Final Report
-  - Quiz Question Bank (24 questions)
+  - Quiz Question Bank (24 questions availble)
   - Past Year Papers: NIL
 - **Note:** No past year papers available as this is primarily a lab-based module, but quiz format is provided
 
@@ -168,7 +155,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
   - Tutorial Answers (Week 1-13)
   - Step-by-Step Design Assignment Solutions (3 assignments)
   - Design Labsheet Working and Answers
-  - Midterm Questions
+  - Past Midterm Questions
   - Past Year Papers with Complete Solutions:
     * EE2102 2023-2024 Semester 1
     * EE2102 2022-2023 Semester 2
@@ -208,19 +195,19 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE3101 2023-2024 Special Term
     * EE3101 2023-2024 Semester 2
     * EE3101 2023-2024 Semester 1
-    * EE3001_2021_S1_all (Done)
+    * EE3001_2021_S1_all
     * EE3001 2022-2023 Semester 2
-    * EE3001 2022-2023 Semester 1 Done
-    * EE3001 2021-2022 Semester 2 Part Done
-    * EE3001 2021-2022 Semester 1 Done
+    * EE3001 2022-2023 Semester 1 
+    * EE3001 2021-2022 Semester 2 
+    * EE3001 2021-2022 Semester 1 
 - **Note:** Past quiz/midterm format not available
 
 #### EE3015: Power System & Conversion (Final Grade: A+)
 - **Course Materials:**
   - Tutorial Answers (Week 1-13)
-  - Midterm Questions and Answers (Full Marks)
-  - OASIS Assessment Q&A
-  - Lab Answers
+  - Midterm Questions and Answers (Full Marks, 20% weightage)
+  - OASIS Assessment Questions and Answers (Full Marks, 10% weightage)
+  - Labsheet & Answers
   - Past Year Papers with Complete Solutions:
     * EE3015 2023-2024 Semester 2
     * EE3015 2023-2024 Semester 1
@@ -233,8 +220,8 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 #### EE3011: Modelling & Control (Final Grade: A+)
 - **Course Materials:**
   - Tutorial Answers (Week 1-13)
-  - Midterm Questions and Answers (Full Marks)
-  - Lab Answers
+  - Midterm Questions and Answers (Full Marks, 30% weightage)
+  - Labsheet & Answers
   - Past Year Papers with Complete Solutions:
     * EE3011 2023-2024 Semester 2
     * EE3011 2023-2024 Semester 1
