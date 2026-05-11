@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 460" role="img" aria-label="Four rules of preparation">
+  <defs>
+    <style><![CDATA[
+      .bg     { fill: #faf8f4; }
+      .ink    { fill: #1a1a1a; }
+      .accent { fill: #b8472a; }
+      .mute   { fill: #6b6864; }
+      .rule   { stroke: #1a1a1a; stroke-width: 1.2; }
+      .hair   { stroke: #c9c2b6; stroke-width: 0.8; }
+      .label  { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; letter-spacing: 0.22em; font-size: 11px; text-transform: uppercase; }
+      .serif-display { font-family: 'Times New Roman', Times, serif; font-weight: 400; }
+      .serif-italic  { font-family: 'Times New Roman', Times, serif; font-style: italic; }
+      .sans   { font-family: 'Helvetica Neue', Arial, sans-serif; }
+      .roman  { font-family: 'Times New Roman', Times, serif; fill: #b8472a; font-style: italic; }
+    ]]></style>
+  </defs>
+
+  <rect class="bg" width="1400" height="460"/>
+
+  <line class="rule" x1="80" y1="50" x2="240" y2="50"/>
+  <text class="label ink" x="80" y="78">§ V · Lessons</text>
+  <text class="serif-display ink" x="80" y="142" font-size="56" letter-spacing="-1">Four rules,</text>
+  <text class="serif-italic accent" x="80" y="198" font-size="56" letter-spacing="-1">earned the hard way.</text>
+
+  <!-- four rules laid out in 2 × 2 with vertical and horizontal hairlines -->
+  <line class="hair" x1="700" y1="248" x2="700" y2="424"/>
+  <line class="hair" x1="80" y1="336" x2="1320" y2="336"/>
+
+  <!-- Rule I -->
+  <g transform="translate(80, 260)">
+    <text class="roman" x="0" y="0" font-size="22">I.</text>
+    <text class="serif-display ink" x="40" y="0" font-size="22">Past papers are non-negotiable.</text>
+    <text class="serif-italic mute" x="40" y="32" font-size="15">
+      <tspan x="40" dy="0">The single highest-leverage prep tool in the building.</tspan>
+      <tspan x="40" dy="22">Solve them. Don't just read them.</tspan>
+    </text>
+  </g>
+
+  <!-- Rule II -->
+  <g transform="translate(720, 260)">
+    <text class="roman" x="0" y="0" font-size="22">II.</text>
+    <text class="serif-display ink" x="40" y="0" font-size="22">Match prep to platform.</text>
+    <text class="serif-italic mute" x="40" y="32" font-size="15">
+      <tspan x="40" dy="0">OASIS rewards question-bank grinding.</tspan>
+      <tspan x="40" dy="22">Paper exams reward tutorial mastery. Don't confuse them.</tspan>
+    </text>
+  </g>
+
+  <!-- Rule III -->
+  <g transform="translate(80, 360)">
+    <text class="roman" x="0" y="0" font-size="22">III.</text>
+    <text class="serif-display ink" x="50" y="0" font-size="22">Build your own cheatsheet.</text>
+    <text class="serif-italic mute" x="50" y="32" font-size="15">
+      <tspan x="50" dy="0">Even when none is allowed. The act of compiling it</tspan>
+      <tspan x="50" dy="22">is the revision. The product is secondary.</tspan>
+    </text>
+  </g>
+
+  <!-- Rule IV -->
+  <g transform="translate(720, 360)">
+    <text class="roman" x="0" y="0" font-size="22">IV.</text>
+    <text class="serif-display ink" x="50" y="0" font-size="22">Start design assignments early.</text>
+    <text class="serif-italic mute" x="50" y="32" font-size="15">
+      <tspan x="50" dy="0">Especially EE2102, EE3015, and the Year IV</tspan>
+      <tspan x="50" dy="22">power electives. They eat weeks.</tspan>
+    </text>
+  </g>
+</svg>

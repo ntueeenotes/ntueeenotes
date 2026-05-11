@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 720" role="img" aria-label="What's inside each module package">
+  <defs>
+    <style><![CDATA[
+      .bg     { fill: #faf8f4; }
+      .ink    { fill: #1a1a1a; }
+      .accent { fill: #b8472a; }
+      .mute   { fill: #6b6864; }
+      .paper  { fill: #ffffff; stroke: #1a1a1a; stroke-width: 1; }
+      .paper-shadow { fill: #1a1a1a; opacity: 0.08; }
+      .rule   { stroke: #1a1a1a; stroke-width: 1.2; }
+      .hair   { stroke: #c9c2b6; stroke-width: 0.8; }
+      .ruled-line { stroke: #d8d2c4; stroke-width: 0.7; }
+      .label  { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; letter-spacing: 0.22em; font-size: 11px; text-transform: uppercase; }
+      .serif-display { font-family: 'Times New Roman', Times, serif; font-weight: 400; }
+      .serif-italic  { font-family: 'Times New Roman', Times, serif; font-style: italic; }
+      .sans   { font-family: 'Helvetica Neue', Arial, sans-serif; }
+      .num    { font-family: 'Times New Roman', Times, serif; fill: #b8472a; font-style: italic; }
+      .cap    { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; letter-spacing: 0.14em; font-size: 9.5px; text-transform: uppercase; fill: #1a1a1a; }
+    ]]></style>
+  </defs>
+
+  <rect class="bg" width="1400" height="720"/>
+
+  <!-- section header -->
+  <line class="rule" x1="80" y1="50" x2="240" y2="50"/>
+  <text class="label ink" x="80" y="78">§ II · What's Inside</text>
+  <text class="serif-display ink" x="80" y="132" font-size="44" letter-spacing="-0.5">Six layers of preparation,</text>
+  <text class="serif-italic accent" x="80" y="178" font-size="44" letter-spacing="-0.5">per module.</text>
+
+  <!-- subhead -->
+  <text class="serif-italic mute" x="80" y="218" font-size="18">Not a notes dump. A study companion, built deliberately.</text>
+
+  <!-- six paper cards in a 3 × 2 grid -->
+  <!-- Card 1: Summary notes -->
+  <g transform="translate(80, 270)">
+    <rect class="paper-shadow" x="4" y="6" width="200" height="180"/>
+    <rect class="paper" x="0" y="0" width="200" height="180"/>
+    <text class="num" x="14" y="42" font-size="42">I.</text>
+    <line class="ruled-line" x1="14" y1="64" x2="186" y2="64"/>
+    <line class="ruled-line" x1="14" y1="78" x2="186" y2="78"/>
+    <line class="ruled-line" x1="14" y1="92" x2="186" y2="92"/>
+    <line class="ruled-line" x1="14" y1="106" x2="186" y2="106"/>
+    <line class="ruled-line" x1="14" y1="120" x2="186" y2="120"/>
+    <text class="cap" x="14" y="148">Summary Notes</text>
+    <text class="sans mute" x="14" y="166" font-size="11">Lectures, distilled.</text>
+  </g>
+
+  <!-- Card 2: Tutorial solutions -->
+  <g transform="translate(310, 270)">
+    <rect class="paper-shadow" x="4" y="6" width="200" height="180"/>
+    <rect class="paper" x="0" y="0" width="200" height="180"/>
+    <text class="num" x="14" y="42" font-size="42">II.</text>
+    <text class="serif-display ink" x="14" y="84" font-size="16">Q1.  ____________</text>
+    <text class="serif-italic mute" x="22" y="102" font-size="11">→ method, step-by-step</text>
+    <text class="serif-display ink" x="14" y="124" font-size="16">Q2.  ____________</text>
+    <text class="serif-italic mute" x="22" y="142" font-size="11">→ final answer</text>
+    <text class="cap" x="14" y="170">Tutorial Solutions</text>
+  </g>
+
+  <!-- Card 3: Past papers -->
+  <g transform="translate(540, 270)">
+    <rect class="paper-shadow" x="4" y="6" width="200" height="180"/>
+    <rect class="paper" x="0" y="0" width="200" height="180"/>
+    <text class="num" x="14" y="42" font-size="42">III.</text>
+    <!-- stack of papers icon -->
+    <rect fill="#faf8f4" stroke="#1a1a1a" stroke-width="0.8" x="118" y="58" width="58" height="78"/>
+    <rect fill="#ffffff" stroke="#1a1a1a" stroke-width="0.8" x="112" y="52" width="58" height="78"/>
+    <rect fill="#ffffff" stroke="#1a1a1a" stroke-width="0.8" x="106" y="46" width="58" height="78"/>
+    <line stroke="#1a1a1a" stroke-width="0.6" x1="114" y1="60" x2="156" y2="60"/>
+    <line stroke="#1a1a1a" stroke-width="0.6" x1="114" y1="68" x2="156" y2="68"/>
+    <line stroke="#1a1a1a" stroke-width="0.6" x1="114" y1="76" x2="156" y2="76"/>
+    <line stroke="#1a1a1a" stroke-width="0.6" x1="114" y1="84" x2="146" y2="84"/>
+    <line stroke="#b8472a" stroke-width="1.5" x1="114" y1="100" x2="156" y2="108"/>
+    <line stroke="#b8472a" stroke-width="1.5" x1="156" y1="100" x2="114" y2="108"/>
+    <text class="cap" x="14" y="148">Past Papers</text>
+    <text class="sans mute" x="14" y="166" font-size="11">Fully worked. 60+ total.</text>
+  </g>
+
+  <!-- Card 4: Assignment solutions -->
+  <g transform="translate(770, 270)">
+    <rect class="paper-shadow" x="4" y="6" width="200" height="180"/>
+    <rect class="paper" x="0" y="0" width="200" height="180"/>
+    <text class="num" x="14" y="42" font-size="42">IV.</text>
+    <text class="sans ink" x="14" y="68" font-size="11">A1 ........... </text>
+    <text class="serif-italic accent" x="120" y="68" font-size="11">full marks</text>
+    <text class="sans ink" x="14" y="86" font-size="11">A2 ........... </text>
+    <text class="serif-italic accent" x="120" y="86" font-size="11">full marks</text>
+    <text class="sans ink" x="14" y="104" font-size="11">A3 ........... </text>
+    <text class="serif-italic accent" x="120" y="104" font-size="11">full marks</text>
+    <line class="hair" x1="14" y1="118" x2="186" y2="118"/>
+    <text class="cap" x="14" y="148">Assignments &amp; Labs</text>
+    <text class="sans mute" x="14" y="166" font-size="11">Templates that scored.</text>
+  </g>
+
+  <!-- Card 5: Midterm bank -->
+  <g transform="translate(1000, 270)">
+    <rect class="paper-shadow" x="4" y="6" width="200" height="180"/>
+    <rect class="paper" x="0" y="0" width="200" height="180"/>
+    <text class="num" x="14" y="42" font-size="42">V.</text>
+    <text class="serif-italic ink" x="14" y="72" font-size="14">"the questions"</text>
+    <text class="sans mute" x="14" y="90" font-size="11">— IRA · OASIS · midterms</text>
+    <text class="sans mute" x="14" y="106" font-size="11">— up to 30% pre-finals</text>
+    <text class="sans mute" x="14" y="122" font-size="11">— where modules are won</text>
+    <text class="cap" x="14" y="148">Quiz &amp; Midterm Banks</text>
+  </g>
+
+  <!-- Card 6: Strategy -->
+  <g transform="translate(1140, 470)">
+    <rect class="paper-shadow" x="4" y="6" width="180" height="160"/>
+    <rect class="paper" x="0" y="0" width="180" height="160"/>
+    <text class="num" x="14" y="42" font-size="42">VI.</text>
+    <text class="serif-italic ink" x="14" y="74" font-size="14">"how to tackle"</text>
+    <text class="sans mute" x="14" y="92" font-size="11">A per-module strategy</text>
+    <text class="sans mute" x="14" y="106" font-size="11">guide. What worked.</text>
+    <text class="sans mute" x="14" y="120" font-size="11">What didn't.</text>
+    <text class="cap" x="14" y="146">Tactics</text>
+  </g>
+
+  <!-- Aside, set as a pull quote at lower-left -->
+  <g transform="translate(80, 470)">
+    <line class="rule accent" x1="0" y1="0" x2="60" y2="0"/>
+    <text class="serif-italic ink" x="0" y="44" font-size="28" letter-spacing="-0.3">
+      <tspan x="0" dy="0">"Past year papers</tspan>
+      <tspan x="0" dy="36">are non-negotiable.</tspan>
+      <tspan x="0" dy="36">The single highest-</tspan>
+      <tspan x="0" dy="36">leverage prep tool."</tspan>
+    </text>
+    <text class="label mute" x="0" y="206">— The author, in hindsight</text>
+  </g>
+
+  <!-- foot rule -->
+  <line class="hair" x1="80" y1="690" x2="1320" y2="690"/>
+</svg>
