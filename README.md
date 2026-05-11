@@ -280,10 +280,10 @@ Each course package includes a wealth of study materials. Here's a detailed brea
   - Research Assignment 2 Answers (10% weightage)
   - Past Year Papers with Complete Solutions:
     * EE4533 2024-2025 Semester 2
-    * EE4533 2023-2024 Semester 2 (left theory)
-    * EE4533 2022-2023 Semester 2 (left theory)
-    * EE4533 2021-2022 Semester 2 (left theory)
-    * EE4533 2020-2021 Semester 2 (left theory)
+    * EE4533 2023-2024 Semester 2
+    * EE4533 2022-2023 Semester 2
+    * EE4533 2021-2022 Semester 2
+    * EE4533 2020-2021 Semester 2
 - **Note:** Some topics not covered. Theory questions excluded from earlier-year papers.
 
 #### EE4534: Modern Distribution Systems with Renewable Resources (Grade Pending)
@@ -295,16 +295,16 @@ Each course package includes a wealth of study materials. Here's a detailed brea
   - Past Year Papers with Complete Solutions:
     * EE4534 2024-2025 Semester 2
     * EE4534 2023-2024 Semester 2
-    * EE4534 2022-2023 Semester 2 (left theory, Q1-Q3 only)
-    * EE4534 2021-2022 Semester 2 (left theory)
-    * EE4534 2020-2021 Semester 2 (left theory)
-    * EE4534 2018-2019 Semester 2 (left theory)
-    * EE4534 2017-2018 Semester 2 (left theory)
+    * EE4534 2022-2023 Semester 2 
+    * EE4534 2021-2022 Semester 2
+    * EE4534 2020-2021 Semester 2 
+    * EE4534 2018-2019 Semester 2 
+    * EE4534 2017-2018 Semester 2 
 
 #### EE4524: Design of Clean Energy Systems (Grade Pending)
 - **Course Materials:**
   - Home Assignment Answers — Wind track (50% weightage)
-  - PLECS Simulation Files with Waveform Results for every class (Wind + Solar)
+  - PLECS Simulation Files in PDF with Waveform Results for every class (Wind + Solar)
   - Reading Notes throughout the semester
   - Past Year Papers with Complete Solutions:
     * EE4524 2024-2025 Semester 2 (Wind)
