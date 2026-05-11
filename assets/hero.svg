@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-label="NTU EEE Notes — A four-year study archive">
+  <defs>
+    <style><![CDATA[
+      .bg     { fill: #faf8f4; }
+      .ink    { fill: #1a1a1a; }
+      .accent { fill: #b8472a; }
+      .mute   { fill: #8a8682; }
+      .rule   { stroke: #1a1a1a; stroke-width: 1.2; }
+      .hair   { stroke: #1a1a1a; stroke-width: 0.6; }
+      .label  { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; letter-spacing: 0.22em; font-size: 11px; text-transform: uppercase; }
+      .serif-display { font-family: 'Times New Roman', Times, serif; font-weight: 400; }
+      .serif-italic  { font-family: 'Times New Roman', Times, serif; font-style: italic; font-weight: 400; }
+      .sans   { font-family: 'Helvetica Neue', Arial, sans-serif; }
+      .tab    { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; letter-spacing: 0.16em; font-size: 10.5px; text-transform: uppercase; }
+    ]]></style>
+  </defs>
+
+  <rect class="bg" width="1400" height="520"/>
+
+  <!-- top rule -->
+  <line class="rule" x1="80" y1="56" x2="1320" y2="56"/>
+
+  <!-- top meta row -->
+  <text class="label ink" x="80" y="44">Vol. IV · No. 1</text>
+  <text class="label ink" x="700" y="44" text-anchor="middle">An Archive · Nanyang Technological University</text>
+  <text class="label ink" x="1320" y="44" text-anchor="end">Singapore · MMXXVI</text>
+
+  <!-- masthead kicker -->
+  <text class="serif-italic mute" x="80" y="120" font-size="20">Four years of study, condensed.</text>
+
+  <!-- main title — set as two lines of large display serif -->
+  <text class="serif-display ink" x="80" y="232" font-size="148" letter-spacing="-3">EEE Notes</text>
+  <text class="serif-italic accent" x="80" y="328" font-size="56" letter-spacing="-1">&amp; past-paper solutions.</text>
+
+  <!-- right column rule + caption -->
+  <line class="hair" x1="980" y1="120" x2="980" y2="340"/>
+  <text class="label ink" x="1010" y="140">The Collection</text>
+  <text class="serif-display ink" x="1010" y="190" font-size="64">21</text>
+  <text class="sans mute" x="1010" y="216" font-size="13">modules from Year 1 through Year 4</text>
+
+  <text class="serif-display ink" x="1010" y="266" font-size="64">100<tspan class="accent">+</tspan></text>
+  <text class="sans mute" x="1010" y="292" font-size="13">past papers with full worked solutions</text>
+
+  <text class="serif-display ink" x="1010" y="335" font-size="32" letter-spacing="-0.5">9 of 16 graded <tspan class="serif-italic accent">at A or A+</tspan></text>
+
+  <!-- mid rule -->
+  <line class="rule" x1="80" y1="376" x2="1320" y2="376"/>
+
+  <!-- bottom dek -->
+  <text class="serif-italic ink" x="80" y="424" font-size="22" letter-spacing="0.2">
+    Compiled notes, tutorials, lab reports, and fully-worked exam solutions —
+  </text>
+  <text class="serif-italic ink" x="80" y="454" font-size="22" letter-spacing="0.2">
+    every resource the author wished he had on the first day of term.
+  </text>
+
+  <!-- bottom tabs -->
+  <text class="tab accent" x="80" y="496">The Archive →</text>
+  <text class="tab ink" x="240" y="496">What's Included</text>
+  <text class="tab ink" x="430" y="496">By Year</text>
+  <text class="tab ink" x="540" y="496">Difficulty Guide</text>
+  <text class="tab ink" x="700" y="496">How to Buy</text>
+
+  <!-- foot rule -->
+  <line class="hair" x1="80" y1="510" x2="1320" y2="510"/>
+</svg>
