@@ -22,6 +22,11 @@ Below is a quick reference table of all available courses, grades achieved, and 
 | **Year 3** | Semester 1 | EE3101 | Engineering Electromagnetics | A | ✓ | ✗ |
 | | Semester 1 | EE3015 | Power System & Conversion | A+ | ✓ | ✓ |
 | | Semester 1 | EE3011 | Modelling & Control | A+ | ✓ | ✓ |
+| **Year 4** | Semester 1 | EE4530 | Power Systems Analysis & Control | A | ✓ | ✓ |
+| | Semester 1 | EE4523 | Power Engineering Design | A- | ✓ | ✗ |
+| | Semester 2 | EE4533 | Power Apparatus & System Protection | Pending | ✓ | ✓ |
+| | Semester 2 | EE4534 | Modern Distribution Systems with Renewable Resources | Pending | ✓ | ✓ |
+| | Semester 2 | EE4524 | Design of Clean Energy Systems | Pending | ✓ | ✗ |
 
 ✓ = Available   ✗ = Not Available
 
@@ -146,7 +151,7 @@ Each course package includes a wealth of study materials. Here's a detailed brea
 - **Course Materials:**
   - Weekly Reflections and Codes (9 labs)
   - Final Report
-  - Quiz Question Bank (24 questions availble)
+  - Quiz Question Bank (24 questions available)
   - Past Year Papers: NIL
 - **Note:** No past year papers available as this is primarily a lab-based module, but quiz format is provided
 
@@ -197,9 +202,9 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE3101 2023-2024 Semester 1
     * EE3001_2021_S1_all
     * EE3001 2022-2023 Semester 2
-    * EE3001 2022-2023 Semester 1 
-    * EE3001 2021-2022 Semester 2 
-    * EE3001 2021-2022 Semester 1 
+    * EE3001 2022-2023 Semester 1
+    * EE3001 2021-2022 Semester 2
+    * EE3001 2021-2022 Semester 1
 - **Note:** Past quiz/midterm format not available
 
 #### EE3015: Power System & Conversion (Final Grade: A+)
@@ -229,6 +234,87 @@ Each course package includes a wealth of study materials. Here's a detailed brea
     * EE3011 2022-2023 Semester 1
     * EE3011 2021-2022 Semester 2
     * EE3011 2021-2022 Semester 1
+
+### Year 4 Semester 1 Courses
+
+#### EE4530: Power Systems Analysis & Control (Final Grade: A)
+- **Course Materials:**
+  - Past Year Quiz 1 (Week 5, 10% weightage)
+  - Past Year Quiz 2 (Week 12, 10% weightage)
+  - Homework Assignment 1 Answers (7.5% weightage)
+  - Homework Assignment 2 Answers (7.5% weightage)
+  - Past Year Papers with Complete Solutions:
+    * EE4530 2024-2025 Semester 1
+    * EE4530 2023-2024 Semester 1
+    * EE4530 2022-2023 Semester 1
+    * EE4530 2021-2022 Semester 2
+    * EE4530 2021-2022 Semester 1
+    * EE4530 2020-2021 Semester 2
+    * EE4530 2020-2021 Semester 1
+    * EE4530 2019-2020 Semester 1
+    * EE4530 2018-2019 Semester 1
+    * EE4530 2017-2018 Semester 1
+- **Note:** Chapter 12 not covered in past paper sweep. Largest single-module past paper collection in the entire archive.
+
+#### EE4523: Power Engineering Design (Final Grade: A-)
+- **Course Materials:**
+  - Assignment Answers (20% weightage)
+  - Past Year Papers with Complete Solutions:
+    * EE4523 2024-2025 Semester 1
+    * EE4523 2023-2024 Semester 1
+    * EE4523 2022-2023 Semester 1
+    * EE4523 2021-2022 Semester 1
+    * EE4523 2020-2021 Semester 1
+    * EE4523 2019-2020 Semester 1
+    * EE4523 2018-2019 Semester 1
+    * EE4523 2017-2018 Semester 1
+- **Note:** Past quiz/midterm format not available
+
+### Year 4 Semester 2 Courses
+
+#### EE4533: Power Apparatus & System Protection (Grade Pending)
+- **Course Materials:**
+  - Assignment Quiz 1 Answers (10% weightage)
+  - Research Assignment 1 Answers (10% weightage)
+  - Quiz 2 Paper (25/26-question coverage, 10% weightage)
+  - Research Assignment 2 Answers (10% weightage)
+  - Past Year Papers with Complete Solutions:
+    * EE4533 2024-2025 Semester 2
+    * EE4533 2023-2024 Semester 2 (left theory)
+    * EE4533 2022-2023 Semester 2 (left theory)
+    * EE4533 2021-2022 Semester 2 (left theory)
+    * EE4533 2020-2021 Semester 2 (left theory)
+- **Note:** Some topics not covered. Theory questions excluded from earlier-year papers.
+
+#### EE4534: Modern Distribution Systems with Renewable Resources (Grade Pending)
+- **Course Materials:**
+  - Past Year Quiz 1 (Week 5, 10% weightage)
+  - Past Year Quiz 2 (Week 11, 10% weightage)
+  - Assignment 1 Answers (Week 7, 10% weightage)
+  - Assignment 2 Answers (Week 13, 10% weightage)
+  - Past Year Papers with Complete Solutions:
+    * EE4534 2024-2025 Semester 2
+    * EE4534 2023-2024 Semester 2
+    * EE4534 2022-2023 Semester 2 (left theory, Q1-Q3 only)
+    * EE4534 2021-2022 Semester 2 (left theory)
+    * EE4534 2020-2021 Semester 2 (left theory)
+    * EE4534 2018-2019 Semester 2 (left theory)
+    * EE4534 2017-2018 Semester 2 (left theory)
+
+#### EE4524: Design of Clean Energy Systems (Grade Pending)
+- **Course Materials:**
+  - Home Assignment Answers — Wind track (50% weightage)
+  - PLECS Simulation Files with Waveform Results for every class (Wind + Solar)
+  - Reading Notes throughout the semester
+  - Past Year Papers with Complete Solutions:
+    * EE4524 2024-2025 Semester 2 (Wind)
+    * EE4524 2023-2024 Semester 2 (Solar)
+    * EE4524 2022-2023 Semester 2 (Wind)
+    * EE4524 2021-2022 Semester 2 (Solar)
+    * EE4524 2020-2021 Semester 2 (Wind)
+    * EE4524 2018-2019 Semester 2 (Solar)
+    * EE4524 2017-2018 Semester 2 (Wind)
+- **Note:** Topics not covered — Wind Power (Part 1) + Solar Power (Part 2). PLECS simulation files are the most labour-intensive Year 4 deliverable.
 
 **All past year papers include detailed solutions.** These solutions reflect the problem-solving methods that helped me achieve good grades in these modules.
 
@@ -282,7 +368,7 @@ Below is a detailed breakdown of each course's difficulty, content focus, and st
 - **Workload**: Heavy workload requiring memorization of various statistical and numerical methods; midterms demand extreme precision (8 decimal places); time-consuming assignments
 - **Assessment**: Midterms (15% each), Assignments (5% each), Final Paper (60%)
 - **How to Tackle This Course**: Practice extensively with OASIS questions for midterms; use the provided full-mark assignment solutions as reference templates; familiarize yourself with different question types through past year papers, particularly focusing on various probability distributions (normal, Poisson, binomial). The included step-by-step assignment solutions (which earned full marks) provide valuable guidance for approaching these challenging problems.
-  
+
 #### EE2101: Circuit Analysis
 - **Content Overview**: Comprehensive exploration of analytical techniques for understanding and solving real-world circuit behaviors
 - **Workload**: Progressive intensity with significant increases after mid-semester as concepts become more advanced
@@ -339,7 +425,8 @@ Below is a detailed breakdown of each course's difficulty, content focus, and st
 - **Workload**: Extremely theoretical with complex abstract concepts
 - **Assessment**: Midterms, Final Paper
 - **How to Tackle This Course**: Start early, focus on building conceptual understanding rather than formula memorization. The notes contain CA1 and CA3 questions and answers from multiple academic years, plus detailed tutorial solutions that help bridge the gap between abstract concepts and practical application. This approach will help you develop the deep understanding necessary for this challenging course.
-  
+
+
 ## Tips and Tricks for Academic Success
 
 These practical strategies helped me achieve good grades and can work for you too:
@@ -349,6 +436,7 @@ These practical strategies helped me achieve good grades and can work for you to
 - **Platform-Specific Preparation**:
   - For OASIS-based tests: Spam OASIS practice questions until you're consistently scoring well
   - For traditional paper exams: Focus on tutorial questions and practice papers
+- **Year 4 modules**: Year 1–3 notes circulate widely online, but Year 4 power electives are significantly harder to find. The materials in this archive cover the full Year 4 power & clean energy specialisation track, including the labour-intensive PLECS simulations for EE4524.
 
 ## Disclaimer
 
